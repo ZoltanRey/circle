@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: blue;
+}
+div {
+  /* margin-left: 500px; */
+  background-color: antiquewhite;
+  height: 500px;
+  width: 500px;
+}
+#box {
+  /* margin-left: 200px; */
+  background-color: aqua;
+  border-radius: 50%;
+  text-align: center;
+}
+h1 {
+  padding-top: 150px;
+}
+button {
+  background-color: bisque;
+  color: rgb(159, 234, 20);
+  border-radius: 2px;
+  border-style: double;
+}
